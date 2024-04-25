@@ -1,0 +1,15 @@
+[submodule "DocuMe"]
+	path = DocuMe
+	url = https://github.com/Baileymnm1999/DocuMe
+[submodule "Pizza"]
+	path = Pizza
+	url = https://github.com/Baileymnm1999/Pizza
+[submodule "Baej"]
+	path = Baej
+	url = https://github.com/Baileymnm1999/Baej
+[submodule "Bazaar"]
+	path = Bazaar
+	url = https://github.com/Baileymnm1999/Bazaar
+[submodule "Teamrank"]
+	path = Teamrank
+	url = https://github.com/Baileymnm1999/Teamrank
